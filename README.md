@@ -1,3 +1,4 @@
 # AdvancedDatabase_NetworkCommunity
-Clustering Komunitas Remaja Masjid Agung Palembang
+Clustering Remaja Masjid Agung Palembang (IRMA) Community.
+
 by : Malahayati, Nadidah Ayu Syafitri
