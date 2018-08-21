@@ -1,5 +1,5 @@
 # AdvancedDatabase_NetworkCommunity
-Clustering Remaja Masjid Agung Palembang (IRMA) Community.
+Clustering Komunitas Remaja Masjid Agung Palembang (IRMA).
 
 
 Name:
