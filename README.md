@@ -12,4 +12,5 @@ Number of edges: 126
 
 Average degree:   1.9843
 
+
 by : Malahayati, Nadidah Ayu Syafitri
